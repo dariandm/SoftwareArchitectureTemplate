@@ -1,0 +1,18 @@
+# LaTeX build output; keep this repository source-only.
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.ilg
+*.idx
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.pdf
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
